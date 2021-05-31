@@ -18,5 +18,4 @@
   
   <div class="w-100"></div>
   <div class="col-6 col-sm-3">
-  <p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/Investiments/B3" target="_blank" rel="noopener noreferrer">Investiments</a>.</p></div>
-  </div>
+  <p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/Investiments/B3" target="_blank" rel="noopener noreferrer">Investiments</a>.</p>     </div>

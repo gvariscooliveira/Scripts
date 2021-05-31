@@ -12,19 +12,16 @@
 		</tr>
 	</thead>
 
+	<thead>
+	<tr>
+	<th><p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/IT/VMware" target="_blank" rel="noopener noreferrer">VMware</a></p></th>
+	</tr>
+	</thead>
 	
-		<tbody>
-		<tr>
-			<td><p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/IT/VMware" target="_blank" rel="noopener noreferrer">VMware</a></p> <br>
-
-		</td>
-			
-			<td><p>Access GitHub <p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/Investiments/B3" target="_blank" rel="noopener noreferrer">Investiments</a></p> <br>
-		</td>
-		</tr>
-	</tbody>
-		
+	<thead>
+	<tr>
+<th><p>Access GitHub <p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/Investiments/B3" target="_blank" rel="noopener noreferrer">Investiments</a></p></th>
+	</tr>
+	</thead>
 	
-	  
-
-
+	

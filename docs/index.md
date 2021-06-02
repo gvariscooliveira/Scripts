@@ -8,15 +8,14 @@
 <table class="table table-striped table-bordered table-hover table-condensed" id="table-mutasi" class="zebra" style="max-width:900px;">
 	<thead>
 		<tr>
-			<th><p>Access GitHub <a href="https://github.com/gvariscooliveira/scripts/" target="_blank" rel="noopener noreferrer">Scripts</a></p></th>
+			<th><a href="https://github.com/gvariscooliveira/scripts/" target="_blank" rel="noopener noreferrer">Scripts</a></th>
 		</tr>
 		
-	<tr>
-	<th><p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/IT/VMware" target="_blank" rel="noopener noreferrer">VMware</a></p></th>
-	</tr>
+		<tr>
+			<th><a href="https://github.com/gvariscooliveira/Scripts/tree/master/IT/VMware" target="_blank" rel="noopener noreferrer">VMware</a></th>
+		</tr>
 	
 		<tr>
-	<th><p>Access GitHub <a href="https://github.com/gvariscooliveira/Scripts/tree/master/Investiments" target="_blank" rel="noopener noreferrer">Investiments</a></p></th>
-	</tr>
-	
+			<th><a href="https://github.com/gvariscooliveira/Scripts/tree/master/Investiments" target="_blank" rel="noopener noreferrer">Investiments</a></th>
+		</tr>
 	</thead>

@@ -1,0 +1,1 @@
+Get-VM "XXXXX" | Get-NetworkAdapter | Set-NetworkAdapter -Type "vmxnet3" -NetworkName "XXXXXXXXX"

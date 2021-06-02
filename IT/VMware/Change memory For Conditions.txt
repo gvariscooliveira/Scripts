@@ -1,0 +1,7 @@
+For ($i=10; $i -le 70; $i++) {
+	$vmname = "vm-example-" + $i
+	If ((Get-VM -Name $vmname).PowerState -eq "PoweredOff" -AND (Get-VM -Name $vmname).MemoryGb -eq 4) {
+	#$vmname
+	Set-VM -VM $vmname -MemoryGB 3 -Confirm:$false
+	}
+}

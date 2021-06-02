@@ -1,0 +1,1 @@
+Get-VM | Where {$.Name -like "xxxxx*"} | Get-HardDisk | Get-SpbmEntityConfiguration | Where {$.Storagepolicy -like "vSAN Default Storage Policy"} | Set-SpbmEntityConfiguration -StoragePolicy XXXXX

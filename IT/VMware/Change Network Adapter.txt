@@ -1,0 +1,1 @@
+Get-VM "XXXX" | get-networkAdapter | Where { $_.Type -eq "E1000"} | set-NetworkAdapter -Type "vmxnet3"
